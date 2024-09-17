@@ -68,7 +68,7 @@ Use code with caution.
 
 Getting Started:
 
-Once both backend and frontend are running, access the application in your browser (usually at http://localhost:8000).
+Once both backend and frontend are running, access the application in your browser (usually at http://localhost:3000).
 Create an account or log in using existing credentials.
 Start managing your tasks and experience the efficiency of Todo-App!
 Contributing:
