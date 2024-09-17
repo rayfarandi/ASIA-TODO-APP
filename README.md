@@ -39,7 +39,7 @@ Configure your database connection details in the appropriate configuration file
 Run the backend server:
 
 Bash
-npm start
+npm run dev
 Use code with caution.
 
 # 3. Frontend Setup (React.js):
@@ -49,7 +49,7 @@ Navigate to the frontend directory (usually src or frontend).
 Run the development server:
 
 Bash
-npm start
+npm run dev
 Use code with caution.
 
 This will typically start a development server (usually on http://localhost:3000) where you can access the frontend interface.
